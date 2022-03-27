@@ -5,7 +5,7 @@ codeunit 50113 "Graph API Helper"
         ClientIdTxt: Label 'bcad1f4c-0f2f-4d70-85f6-5355b3a21e9d', Locked = true;
         ClientSecret: Label 'gRS7Q~Zv5GUmvSj58O_ZHfkaj.4EOuJCHELZZ', Locked = true;
         ResourceUrlTxt: Label 'https://graph.microsoft.com', Locked = true;
-        OAuthAuthorityUrlTxt: Label 'https://login.microsoftonline.com/5e553341-24f0-4e09-895e-cd8cc0521d1e/oauth2/authorize', Locked = true;
+        OAuthAuthorityUrlTxt: Label 'https://login.microsoftonline.com/5e553341-24f0-4e09-895e-cd8cc0521d1e/oauth2/v2.0/token', Locked = true;
         RedirectURLTxt: Label 'https://businesscentral.dynamics.com/OAuthLanding.htm', Locked = true;
         OneDriveRootQueryUri: Label 'https://graph.microsoft.com/v1.0/me/drive/root/children', Locked = true;
 
